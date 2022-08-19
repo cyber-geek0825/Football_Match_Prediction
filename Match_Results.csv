@@ -1,0 +1,381 @@
+,Home,Away,FTR,FTHG,FTAG
+0,Osasuna,Sevilla,D,1,1
+1,Barcelona,Vallecano,H,3,1
+2,Celta,Espanol,H,2,1
+3,Valladolid,Villarreal,D,1,1
+4,Almeria,Real Madrid,A,1,3
+5,Cadiz,Sociedad,D,1,1
+6,Valencia,Girona,D,1,1
+7,Ath Bilbao,Mallorca,H,2,1
+8,Betis,Elche,D,1,1
+9,Getafe,Ath Madrid,D,1,1
+10,Espanol,Vallecano,D,1,1
+11,Sevilla,Valladolid,D,1,1
+12,Celta,Real Madrid,A,1,2
+13,Mallorca,Betis,A,1,2
+14,Osasuna,Cadiz,H,2,1
+15,Ath Bilbao,Valencia,D,1,1
+16,Ath Madrid,Villarreal,D,1,1
+17,Sociedad,Barcelona,A,1,2
+18,Elche,Almeria,H,1,0
+19,Girona,Getafe,D,1,1
+20,Betis,Osasuna,H,2,1
+21,Girona,Celta,D,1,1
+22,Almeria,Sevilla,A,0,1
+23,Elche,Sociedad,A,1,2
+24,Vallecano,Mallorca,H,2,1
+25,Barcelona,Valladolid,H,2,0
+26,Espanol,Real Madrid,A,1,2
+27,Getafe,Villarreal,D,1,1
+28,Cadiz,Ath Bilbao,A,1,2
+29,Valencia,Ath Madrid,D,1,1
+30,Ath Bilbao,Espanol,H,2,1
+31,Celta,Cadiz,H,2,1
+32,Mallorca,Girona,H,1,0
+33,Osasuna,Vallecano,H,1,0
+34,Real Madrid,Betis,D,1,1
+35,Sociedad,Ath Madrid,D,1,1
+36,Sevilla,Barcelona,D,1,1
+37,Valencia,Getafe,D,1,1
+38,Valladolid,Almeria,D,0,0
+39,Villarreal,Elche,H,2,0
+40,Almeria,Osasuna,D,0,0
+41,Ath Madrid,Celta,H,2,1
+42,Betis,Villarreal,D,1,1
+43,Cadiz,Barcelona,D,1,1
+44,Elche,Ath Bilbao,D,1,1
+45,Espanol,Sevilla,D,1,1
+46,Getafe,Sociedad,D,1,1
+47,Girona,Valladolid,D,0,0
+48,Vallecano,Valencia,D,1,1
+49,Real Madrid,Mallorca,H,3,0
+50,Ath Bilbao,Vallecano,H,2,1
+51,Ath Madrid,Real Madrid,D,1,1
+52,Barcelona,Elche,H,2,1
+53,Betis,Girona,H,2,1
+54,Mallorca,Almeria,H,1,0
+55,Osasuna,Getafe,D,1,1
+56,Sociedad,Espanol,H,2,1
+57,Valencia,Celta,D,1,1
+58,Valladolid,Cadiz,D,1,1
+59,Villarreal,Sevilla,D,1,1
+60,Ath Bilbao,Almeria,H,2,1
+61,Cadiz,Villarreal,D,1,1
+62,Celta,Betis,A,1,2
+63,Espanol,Valencia,D,1,1
+64,Getafe,Valladolid,H,1,0
+65,Girona,Sociedad,D,1,1
+66,Mallorca,Barcelona,A,0,2
+67,Vallecano,Elche,H,2,1
+68,Real Madrid,Osasuna,H,2,1
+69,Sevilla,Ath Madrid,D,1,1
+70,Almeria,Vallecano,A,0,1
+71,Ath Madrid,Girona,H,1,0
+72,Barcelona,Celta,H,2,1
+73,Cadiz,Espanol,D,2,2
+74,Elche,Mallorca,H,2,0
+75,Getafe,Real Madrid,A,1,2
+76,Osasuna,Valencia,D,2,2
+77,Sociedad,Villarreal,D,1,1
+78,Sevilla,Ath Bilbao,H,1,0
+79,Valladolid,Betis,D,1,1
+80,Ath Bilbao,Ath Madrid,H,2,1
+81,Betis,Almeria,H,1,0
+82,Celta,Sociedad,A,1,2
+83,Espanol,Valladolid,D,1,1
+84,Girona,Cadiz,D,0,0
+85,Mallorca,Sevilla,D,1,1
+86,Vallecano,Getafe,H,2,1
+87,Real Madrid,Barcelona,A,1,2
+88,Valencia,Elche,H,2,1
+89,Villarreal,Osasuna,H,2,1
+90,Almeria,Girona,D,0,0
+91,Ath Madrid,Vallecano,H,2,0
+92,Barcelona,Villarreal,H,2,1
+93,Cadiz,Betis,A,1,2
+94,Elche,Real Madrid,A,1,2
+95,Getafe,Ath Bilbao,D,1,1
+96,Osasuna,Espanol,D,1,1
+97,Sociedad,Mallorca,H,2,0
+98,Sevilla,Valencia,D,1,1
+99,Valladolid,Celta,D,1,1
+100,Barcelona,Ath Bilbao,H,2,0
+101,Betis,Ath Madrid,D,1,1
+102,Celta,Getafe,D,1,1
+103,Espanol,Elche,D,1,1
+104,Girona,Osasuna,D,0,0
+105,Vallecano,Cadiz,H,2,1
+106,Real Madrid,Sevilla,H,2,1
+107,Valencia,Mallorca,H,2,1
+108,Valladolid,Sociedad,D,1,1
+109,Villarreal,Almeria,H,2,0
+110,Almeria,Celta,A,1,2
+111,Ath Bilbao,Villarreal,H,2,1
+112,Cadiz,Ath Madrid,A,1,2
+113,Elche,Getafe,D,1,1
+114,Mallorca,Espanol,D,1,1
+115,Osasuna,Valladolid,D,0,0
+116,Real Madrid,Girona,H,3,1
+117,Sociedad,Betis,H,2,1
+118,Sevilla,Vallecano,H,2,0
+119,Valencia,Barcelona,A,1,2
+120,Ath Madrid,Espanol,D,1,1
+121,Barcelona,Almeria,H,3,0
+122,Betis,Sevilla,D,1,1
+123,Celta,Osasuna,H,2,1
+124,Getafe,Cadiz,H,2,1
+125,Girona,Ath Bilbao,D,1,1
+126,Vallecano,Real Madrid,A,1,2
+127,Sociedad,Valencia,D,1,1
+128,Valladolid,Elche,D,1,1
+129,Villarreal,Mallorca,H,2,0
+130,Almeria,Getafe,H,1,0
+131,Ath Bilbao,Valladolid,D,1,1
+132,Elche,Girona,H,1,0
+133,Espanol,Villarreal,D,1,1
+134,Mallorca,Ath Madrid,D,1,1
+135,Osasuna,Barcelona,A,1,2
+136,Vallecano,Celta,D,1,1
+137,Real Madrid,Cadiz,D,1,1
+138,Sevilla,Sociedad,H,2,1
+139,Valencia,Betis,D,1,1
+140,Ath Madrid,Elche,H,2,0
+141,Barcelona,Espanol,H,2,1
+142,Betis,Ath Bilbao,D,1,1
+143,Cadiz,Almeria,H,1,0
+144,Celta,Sevilla,H,2,1
+145,Getafe,Mallorca,H,2,1
+146,Girona,Vallecano,D,1,1
+147,Sociedad,Osasuna,D,1,1
+148,Valladolid,Real Madrid,A,0,2
+149,Villarreal,Valencia,D,1,1
+150,Almeria,Sociedad,A,1,2
+151,Ath Bilbao,Osasuna,D,1,1
+152,Ath Madrid,Barcelona,D,1,1
+153,Elche,Celta,D,1,1
+154,Espanol,Girona,D,1,1
+155,Mallorca,Valladolid,D,1,1
+156,Vallecano,Betis,A,1,2
+157,Sevilla,Getafe,H,2,0
+158,Valencia,Cadiz,D,1,1
+159,Villarreal,Real Madrid,A,1,2
+160,Almeria,Ath Madrid,A,0,2
+161,Betis,Barcelona,A,1,2
+162,Cadiz,Elche,H,2,1
+163,Celta,Villarreal,A,1,2
+164,Getafe,Espanol,H,2,1
+165,Girona,Sevilla,D,1,1
+166,Osasuna,Mallorca,D,1,1
+167,Real Madrid,Valencia,H,2,1
+168,Sociedad,Ath Bilbao,D,1,1
+169,Valladolid,Vallecano,A,0,1
+170,Ath Bilbao,Real Madrid,A,1,2
+171,Ath Madrid,Valladolid,H,1,0
+172,Barcelona,Getafe,H,2,1
+173,Elche,Osasuna,D,1,1
+174,Espanol,Betis,A,1,2
+175,Mallorca,Celta,H,2,1
+176,Vallecano,Sociedad,A,1,2
+177,Sevilla,Cadiz,H,2,1
+178,Valencia,Almeria,H,2,1
+179,Villarreal,Girona,D,1,1
+180,Almeria,Espanol,D,1,1
+181,Cadiz,Mallorca,D,1,1
+182,Celta,Ath Bilbao,D,1,1
+183,Getafe,Betis,D,1,1
+184,Girona,Barcelona,A,0,2
+185,Osasuna,Ath Madrid,A,0,2
+186,Real Madrid,Sociedad,H,2,1
+187,Sevilla,Elche,H,2,0
+188,Valladolid,Valencia,D,1,1
+189,Villarreal,Vallecano,H,2,1
+190,Ath Bilbao,Cadiz,D,1,1
+191,Ath Madrid,Getafe,H,2,0
+192,Barcelona,Sevilla,H,2,1
+193,Betis,Celta,D,2,2
+194,Elche,Villarreal,A,1,2
+195,Espanol,Osasuna,H,2,1
+196,Girona,Valencia,A,1,2
+197,Mallorca,Real Madrid,A,1,2
+198,Vallecano,Almeria,H,2,0
+199,Sociedad,Valladolid,H,2,1
+200,Almeria,Betis,A,0,1
+201,Cadiz,Girona,H,1,0
+202,Celta,Ath Madrid,D,1,1
+203,Espanol,Sociedad,D,1,1
+204,Getafe,Vallecano,D,1,1
+205,Real Madrid,Elche,H,3,1
+206,Sevilla,Mallorca,H,1,0
+207,Valencia,Ath Bilbao,D,1,1
+208,Valladolid,Osasuna,D,1,1
+209,Villarreal,Barcelona,A,1,2
+210,Ath Madrid,Ath Bilbao,H,2,1
+211,Barcelona,Cadiz,D,1,1
+212,Betis,Valladolid,D,1,1
+213,Elche,Espanol,D,1,1
+214,Getafe,Valencia,D,1,1
+215,Girona,Almeria,D,0,0
+216,Mallorca,Villarreal,D,1,1
+217,Osasuna,Real Madrid,A,1,2
+218,Vallecano,Sevilla,D,1,1
+219,Sociedad,Celta,D,1,1
+220,Almeria,Barcelona,A,1,2
+221,Ath Bilbao,Girona,H,1,0
+222,Cadiz,Vallecano,H,2,0
+223,Celta,Valladolid,D,1,1
+224,Elche,Betis,A,0,2
+225,Espanol,Mallorca,H,1,0
+226,Real Madrid,Ath Madrid,H,2,1
+227,Sevilla,Osasuna,H,2,1
+228,Valencia,Sociedad,D,1,1
+229,Villarreal,Getafe,H,1,0
+230,Almeria,Villarreal,A,0,1
+231,Ath Madrid,Sevilla,H,2,1
+232,Barcelona,Valencia,H,2,1
+233,Betis,Real Madrid,A,1,2
+234,Getafe,Girona,H,1,0
+235,Mallorca,Elche,H,2,1
+236,Osasuna,Celta,D,1,1
+237,Vallecano,Ath Bilbao,D,1,1
+238,Sociedad,Cadiz,H,2,0
+239,Valladolid,Espanol,D,1,1
+240,Ath Bilbao,Barcelona,D,1,1
+241,Cadiz,Getafe,D,1,1
+242,Celta,Vallecano,H,2,1
+243,Elche,Valladolid,D,1,1
+244,Girona,Ath Madrid,A,1,2
+245,Mallorca,Sociedad,A,1,2
+246,Real Madrid,Espanol,H,3,0
+247,Sevilla,Almeria,H,2,1
+248,Valencia,Osasuna,H,2,1
+249,Villarreal,Betis,H,2,1
+250,Almeria,Cadiz,D,0,0
+251,Ath Madrid,Valencia,H,2,1
+252,Barcelona,Real Madrid,A,1,2
+253,Betis,Mallorca,H,2,1
+254,Espanol,Celta,D,1,1
+255,Getafe,Sevilla,D,1,1
+256,Osasuna,Villarreal,A,1,2
+257,Vallecano,Girona,D,1,1
+258,Sociedad,Elche,H,2,0
+259,Valladolid,Ath Bilbao,D,1,1
+260,Ath Bilbao,Getafe,H,2,1
+261,Ath Madrid,Betis,H,2,1
+262,Cadiz,Sevilla,D,1,1
+263,Celta,Almeria,D,1,1
+264,Elche,Barcelona,A,0,3
+265,Girona,Espanol,A,1,2
+266,Mallorca,Osasuna,D,2,2
+267,Real Madrid,Valladolid,H,2,0
+268,Valencia,Vallecano,H,2,1
+269,Villarreal,Sociedad,H,2,1
+270,Almeria,Valencia,A,1,2
+271,Barcelona,Girona,H,3,1
+272,Betis,Cadiz,D,1,1
+273,Espanol,Ath Bilbao,D,1,1
+274,Osasuna,Elche,D,1,1
+275,Vallecano,Ath Madrid,D,1,1
+276,Real Madrid,Villarreal,H,2,1
+277,Sociedad,Getafe,D,1,1
+278,Sevilla,Celta,D,1,1
+279,Valladolid,Mallorca,H,2,0
+280,Ath Bilbao,Sociedad,H,2,1
+281,Ath Madrid,Almeria,H,2,0
+282,Betis,Espanol,D,1,1
+283,Cadiz,Real Madrid,A,1,2
+284,Celta,Mallorca,D,2,2
+285,Getafe,Barcelona,D,1,1
+286,Girona,Elche,D,0,0
+287,Vallecano,Osasuna,A,1,2
+288,Valencia,Sevilla,D,1,1
+289,Villarreal,Valladolid,H,1,0
+290,Almeria,Ath Bilbao,A,0,1
+291,Barcelona,Ath Madrid,H,2,1
+292,Elche,Valencia,A,1,2
+293,Espanol,Cadiz,D,1,1
+294,Mallorca,Getafe,D,1,1
+295,Osasuna,Betis,A,0,2
+296,Real Madrid,Celta,H,3,1
+297,Sociedad,Vallecano,D,1,1
+298,Sevilla,Villarreal,D,1,1
+299,Valladolid,Girona,H,1,0
+300,Ath Bilbao,Sevilla,D,1,1
+301,Ath Madrid,Mallorca,H,2,1
+302,Betis,Sociedad,H,2,1
+303,Cadiz,Osasuna,A,1,2
+304,Celta,Elche,H,2,1
+305,Getafe,Almeria,H,1,0
+306,Girona,Real Madrid,A,1,2
+307,Vallecano,Barcelona,A,1,2
+308,Valencia,Valladolid,H,2,1
+309,Villarreal,Espanol,H,2,1
+310,Barcelona,Betis,D,2,2
+311,Cadiz,Valencia,D,1,1
+312,Elche,Vallecano,H,2,0
+313,Espanol,Getafe,H,1,0
+314,Mallorca,Ath Bilbao,D,1,1
+315,Osasuna,Sociedad,A,1,2
+316,Real Madrid,Almeria,H,2,0
+317,Sevilla,Girona,H,1,0
+318,Valladolid,Ath Madrid,D,1,1
+319,Villarreal,Celta,D,2,2
+320,Almeria,Elche,D,1,1
+321,Ath Bilbao,Betis,H,2,1
+322,Ath Madrid,Cadiz,H,2,1
+323,Barcelona,Osasuna,H,3,1
+324,Getafe,Celta,D,1,1
+325,Girona,Mallorca,D,0,0
+326,Vallecano,Valladolid,D,1,1
+327,Sociedad,Real Madrid,A,1,2
+328,Sevilla,Espanol,H,2,1
+329,Valencia,Villarreal,D,1,1
+330,Betis,Vallecano,H,2,1
+331,Celta,Valencia,D,1,1
+332,Elche,Ath Madrid,A,0,1
+333,Espanol,Barcelona,A,1,2
+334,Mallorca,Cadiz,H,2,1
+335,Osasuna,Almeria,D,0,0
+336,Real Madrid,Getafe,H,3,1
+337,Sociedad,Girona,H,2,0
+338,Valladolid,Sevilla,A,0,1
+339,Villarreal,Ath Bilbao,D,1,1
+340,Almeria,Mallorca,D,0,0
+341,Ath Bilbao,Celta,D,1,1
+342,Ath Madrid,Osasuna,H,2,1
+343,Barcelona,Sociedad,H,2,1
+344,Cadiz,Valladolid,H,1,0
+345,Getafe,Elche,D,1,1
+346,Girona,Villarreal,A,1,2
+347,Vallecano,Espanol,H,2,1
+348,Sevilla,Betis,H,2,1
+349,Valencia,Real Madrid,A,1,2
+350,Betis,Getafe,H,2,1
+351,Celta,Girona,H,2,1
+352,Elche,Sevilla,D,1,1
+353,Espanol,Ath Madrid,D,1,1
+354,Mallorca,Valencia,H,2,1
+355,Osasuna,Ath Bilbao,D,1,1
+356,Real Madrid,Vallecano,H,3,1
+357,Sociedad,Almeria,D,1,1
+358,Valladolid,Barcelona,A,0,1
+359,Villarreal,Cadiz,H,2,1
+360,Almeria,Valladolid,D,0,0
+361,Ath Bilbao,Elche,H,2,1
+362,Ath Madrid,Sociedad,H,2,1
+363,Barcelona,Mallorca,H,3,1
+364,Cadiz,Celta,D,1,1
+365,Getafe,Osasuna,H,1,0
+366,Girona,Betis,A,0,1
+367,Vallecano,Villarreal,A,1,2
+368,Sevilla,Real Madrid,D,2,2
+369,Valencia,Espanol,D,1,1
+370,Betis,Valencia,D,2,2
+371,Celta,Barcelona,D,2,2
+372,Elche,Cadiz,H,2,1
+373,Espanol,Almeria,H,2,0
+374,Mallorca,Vallecano,H,2,1
+375,Osasuna,Girona,D,0,0
+376,Real Madrid,Ath Bilbao,H,2,1
+377,Sociedad,Sevilla,D,1,1
+378,Valladolid,Getafe,D,1,1
+379,Villarreal,Ath Madrid,H,2,1

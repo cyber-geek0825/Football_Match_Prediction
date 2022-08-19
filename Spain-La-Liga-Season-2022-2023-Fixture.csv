@@ -1,0 +1,381 @@
+Home,Away
+Osasuna,Sevilla
+Barcelona,Vallecano
+Celta,Espanol
+Valladolid,Villarreal
+Almeria,Real Madrid
+Cadiz,Sociedad
+Valencia,Girona
+Ath Bilbao,Mallorca
+Betis,Elche
+Getafe,Ath Madrid
+Espanol,Vallecano
+Sevilla,Valladolid
+Celta,Real Madrid
+Mallorca,Betis
+Osasuna,Cadiz
+Ath Bilbao,Valencia
+Ath Madrid,Villarreal
+Sociedad,Barcelona
+Elche,Almeria
+Girona,Getafe
+Betis,Osasuna
+Girona,Celta
+Almeria,Sevilla
+Elche,Sociedad
+Vallecano,Mallorca
+Barcelona,Valladolid
+Espanol,Real Madrid
+Getafe,Villarreal
+Cadiz,Ath Bilbao
+Valencia,Ath Madrid
+Ath Bilbao,Espanol
+Celta,Cadiz
+Mallorca,Girona
+Osasuna,Vallecano
+Real Madrid,Betis
+Sociedad,Ath Madrid
+Sevilla,Barcelona
+Valencia,Getafe
+Valladolid,Almeria
+Villarreal,Elche
+Almeria,Osasuna
+Ath Madrid,Celta
+Betis,Villarreal
+Cadiz,Barcelona
+Elche,Ath Bilbao
+Espanol,Sevilla
+Getafe,Sociedad
+Girona,Valladolid
+Vallecano,Valencia
+Real Madrid,Mallorca
+Ath Bilbao,Vallecano
+Ath Madrid,Real Madrid
+Barcelona,Elche
+Betis,Girona
+Mallorca,Almeria
+Osasuna,Getafe
+Sociedad,Espanol
+Valencia,Celta
+Valladolid,Cadiz
+Villarreal,Sevilla
+Ath Bilbao,Almeria
+Cadiz,Villarreal
+Celta,Betis
+Espanol,Valencia
+Getafe,Valladolid
+Girona,Sociedad
+Mallorca,Barcelona
+Vallecano,Elche
+Real Madrid,Osasuna
+Sevilla,Ath Madrid
+Almeria,Vallecano
+Ath Madrid,Girona
+Barcelona,Celta
+Cadiz,Espanol
+Elche,Mallorca
+Getafe,Real Madrid
+Osasuna,Valencia
+Sociedad,Villarreal
+Sevilla,Ath Bilbao
+Valladolid,Betis
+Ath Bilbao,Ath Madrid
+Betis,Almeria
+Celta,Sociedad
+Espanol,Valladolid
+Girona,Cadiz
+Mallorca,Sevilla
+Vallecano,Getafe
+Real Madrid,Barcelona
+Valencia,Elche
+Villarreal,Osasuna
+Almeria,Girona
+Ath Madrid,Vallecano
+Barcelona,Villarreal
+Cadiz,Betis
+Elche,Real Madrid
+Getafe,Ath Bilbao
+Osasuna,Espanol
+Sociedad,Mallorca
+Sevilla,Valencia
+Valladolid,Celta
+Barcelona,Ath Bilbao
+Betis,Ath Madrid
+Celta,Getafe
+Espanol,Elche
+Girona,Osasuna
+Vallecano,Cadiz
+Real Madrid,Sevilla
+Valencia,Mallorca
+Valladolid,Sociedad
+Villarreal,Almeria
+Almeria,Celta
+Ath Bilbao,Villarreal
+Cadiz,Ath Madrid
+Elche,Getafe
+Mallorca,Espanol
+Osasuna,Valladolid
+Real Madrid,Girona
+Sociedad,Betis
+Sevilla,Vallecano
+Valencia,Barcelona
+Ath Madrid,Espanol
+Barcelona,Almeria
+Betis,Sevilla
+Celta,Osasuna
+Getafe,Cadiz
+Girona,Ath Bilbao
+Vallecano,Real Madrid
+Sociedad,Valencia
+Valladolid,Elche
+Villarreal,Mallorca
+Almeria,Getafe
+Ath Bilbao,Valladolid
+Elche,Girona
+Espanol,Villarreal
+Mallorca,Ath Madrid
+Osasuna,Barcelona
+Vallecano,Celta
+Real Madrid,Cadiz
+Sevilla,Sociedad
+Valencia,Betis
+Ath Madrid,Elche
+Barcelona,Espanol
+Betis,Ath Bilbao
+Cadiz,Almeria
+Celta,Sevilla
+Getafe,Mallorca
+Girona,Vallecano
+Sociedad,Osasuna
+Valladolid,Real Madrid
+Villarreal,Valencia
+Almeria,Sociedad
+Ath Bilbao,Osasuna
+Ath Madrid,Barcelona
+Elche,Celta
+Espanol,Girona
+Mallorca,Valladolid
+Vallecano,Betis
+Sevilla,Getafe
+Valencia,Cadiz
+Villarreal,Real Madrid
+Almeria,Ath Madrid
+Betis,Barcelona
+Cadiz,Elche
+Celta,Villarreal
+Getafe,Espanol
+Girona,Sevilla
+Osasuna,Mallorca
+Real Madrid,Valencia
+Sociedad,Ath Bilbao
+Valladolid,Vallecano
+Ath Bilbao,Real Madrid
+Ath Madrid,Valladolid
+Barcelona,Getafe
+Elche,Osasuna
+Espanol,Betis
+Mallorca,Celta
+Vallecano,Sociedad
+Sevilla,Cadiz
+Valencia,Almeria
+Villarreal,Girona
+Almeria,Espanol
+Cadiz,Mallorca
+Celta,Ath Bilbao
+Getafe,Betis
+Girona,Barcelona
+Osasuna,Ath Madrid
+Real Madrid,Sociedad
+Sevilla,Elche
+Valladolid,Valencia
+Villarreal,Vallecano
+Ath Bilbao,Cadiz
+Ath Madrid,Getafe
+Barcelona,Sevilla
+Betis,Celta
+Elche,Villarreal
+Espanol,Osasuna
+Girona,Valencia
+Mallorca,Real Madrid
+Vallecano,Almeria
+Sociedad,Valladolid
+Almeria,Betis
+Cadiz,Girona
+Celta,Ath Madrid
+Espanol,Sociedad
+Getafe,Vallecano
+Real Madrid,Elche
+Sevilla,Mallorca
+Valencia,Ath Bilbao
+Valladolid,Osasuna
+Villarreal,Barcelona
+Ath Madrid,Ath Bilbao
+Barcelona,Cadiz
+Betis,Valladolid
+Elche,Espanol
+Getafe,Valencia
+Girona,Almeria
+Mallorca,Villarreal
+Osasuna,Real Madrid
+Vallecano,Sevilla
+Sociedad,Celta
+Almeria,Barcelona
+Ath Bilbao,Girona
+Cadiz,Vallecano
+Celta,Valladolid
+Elche,Betis
+Espanol,Mallorca
+Real Madrid,Ath Madrid
+Sevilla,Osasuna
+Valencia,Sociedad
+Villarreal,Getafe
+Almeria,Villarreal
+Ath Madrid,Sevilla
+Barcelona,Valencia
+Betis,Real Madrid
+Getafe,Girona
+Mallorca,Elche
+Osasuna,Celta
+Vallecano,Ath Bilbao
+Sociedad,Cadiz
+Valladolid,Espanol
+Ath Bilbao,Barcelona
+Cadiz,Getafe
+Celta,Vallecano
+Elche,Valladolid
+Girona,Ath Madrid
+Mallorca,Sociedad
+Real Madrid,Espanol
+Sevilla,Almeria
+Valencia,Osasuna
+Villarreal,Betis
+Almeria,Cadiz
+Ath Madrid,Valencia
+Barcelona,Real Madrid
+Betis,Mallorca
+Espanol,Celta
+Getafe,Sevilla
+Osasuna,Villarreal
+Vallecano,Girona
+Sociedad,Elche
+Valladolid,Ath Bilbao
+Ath Bilbao,Getafe
+Ath Madrid,Betis
+Cadiz,Sevilla
+Celta,Almeria
+Elche,Barcelona
+Girona,Espanol
+Mallorca,Osasuna
+Real Madrid,Valladolid
+Valencia,Vallecano
+Villarreal,Sociedad
+Almeria,Valencia
+Barcelona,Girona
+Betis,Cadiz
+Espanol,Ath Bilbao
+Osasuna,Elche
+Vallecano,Ath Madrid
+Real Madrid,Villarreal
+Sociedad,Getafe
+Sevilla,Celta
+Valladolid,Mallorca
+Ath Bilbao,Sociedad
+Ath Madrid,Almeria
+Betis,Espanol
+Cadiz,Real Madrid
+Celta,Mallorca
+Getafe,Barcelona
+Girona,Elche
+Vallecano,Osasuna
+Valencia,Sevilla
+Villarreal,Valladolid
+Almeria,Ath Bilbao
+Barcelona,Ath Madrid
+Elche,Valencia
+Espanol,Cadiz
+Mallorca,Getafe
+Osasuna,Betis
+Real Madrid,Celta
+Sociedad,Vallecano
+Sevilla,Villarreal
+Valladolid,Girona
+Ath Bilbao,Sevilla
+Ath Madrid,Mallorca
+Betis,Sociedad
+Cadiz,Osasuna
+Celta,Elche
+Getafe,Almeria
+Girona,Real Madrid
+Vallecano,Barcelona
+Valencia,Valladolid
+Villarreal,Espanol
+Barcelona,Betis
+Cadiz,Valencia
+Elche,Vallecano
+Espanol,Getafe
+Mallorca,Ath Bilbao
+Osasuna,Sociedad
+Real Madrid,Almeria
+Sevilla,Girona
+Valladolid,Ath Madrid
+Villarreal,Celta
+Almeria,Elche
+Ath Bilbao,Betis
+Ath Madrid,Cadiz
+Barcelona,Osasuna
+Getafe,Celta
+Girona,Mallorca
+Vallecano,Valladolid
+Sociedad,Real Madrid
+Sevilla,Espanol
+Valencia,Villarreal
+Betis,Vallecano
+Celta,Valencia
+Elche,Ath Madrid
+Espanol,Barcelona
+Mallorca,Cadiz
+Osasuna,Almeria
+Real Madrid,Getafe
+Sociedad,Girona
+Valladolid,Sevilla
+Villarreal,Ath Bilbao
+Almeria,Mallorca
+Ath Bilbao,Celta
+Ath Madrid,Osasuna
+Barcelona,Sociedad
+Cadiz,Valladolid
+Getafe,Elche
+Girona,Villarreal
+Vallecano,Espanol
+Sevilla,Betis
+Valencia,Real Madrid
+Betis,Getafe
+Celta,Girona
+Elche,Sevilla
+Espanol,Ath Madrid
+Mallorca,Valencia
+Osasuna,Ath Bilbao
+Real Madrid,Vallecano
+Sociedad,Almeria
+Valladolid,Barcelona
+Villarreal,Cadiz
+Almeria,Valladolid
+Ath Bilbao,Elche
+Ath Madrid,Sociedad
+Barcelona,Mallorca
+Cadiz,Celta
+Getafe,Osasuna
+Girona,Betis
+Vallecano,Villarreal
+Sevilla,Real Madrid
+Valencia,Espanol
+Betis,Valencia
+Celta,Barcelona
+Elche,Cadiz
+Espanol,Almeria
+Mallorca,Vallecano
+Osasuna,Girona
+Real Madrid,Ath Bilbao
+Sociedad,Sevilla
+Valladolid,Getafe
+Villarreal,Ath Madrid
